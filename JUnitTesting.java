@@ -9,7 +9,7 @@ package lab11;
 			int count = 0;
 			for (int i=0; i <word.length();i++)
 			{
-			if(word.charAt(i)=='a' || word.charAt(i)=='A')
+			if(word.charAt(i)=='b' || word.charAt(i)=='B')
 			{
 			count++;
 			}
